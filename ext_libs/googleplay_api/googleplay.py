@@ -239,7 +239,9 @@ class GooglePlayAPI(object):
         if (ctr != None):
             path += "&ctr=%s" % requests.utils.quote(ctr)
         message = self.executeRequestApi2(path)
+        #print message.payload.browseResponse
         return message.payload.browseResponse
+
 
     def list(self, cat, ctr=None, nb_results=None, offset=None):
         """List apps.
@@ -255,6 +257,8 @@ class GooglePlayAPI(object):
         if (offset != None):
             path += "&o=%s" % requests.utils.quote(offset)
         message = self.executeRequestApi2(path)
+        #print message.payload
+
         return message.payload.listResponse
 
     def reviews(self, packageName, filterByDevice=False, sort=2, nb_results=None, offset=None):
@@ -312,7 +316,7 @@ class GooglePlayAPI(object):
                    "User-Agent" : "AndroidDownloadManager/4.4.3 (Linux; U; Android 4.4.3; Nexus S Build/JRO03E)",
                    "Accept-Encoding": "",
                   }
-                  
+
         if not progress_bar:
             response = requests.get(url, headers=headers, cookies=cookies, verify=ssl_verify)
             return response.content
@@ -325,4 +329,3 @@ class GooglePlayAPI(object):
             if chunk:
                 response_content+=chunk
         return response_content
-

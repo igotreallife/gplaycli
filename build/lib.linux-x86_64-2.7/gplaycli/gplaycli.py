@@ -22,9 +22,10 @@ import argparse
 import ConfigParser
 import time
 import requests
-
+#evtl removen
 import urlparse
 import json
+# testzwecke
 import re
 
 from enum import IntEnum

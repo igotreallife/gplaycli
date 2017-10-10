@@ -1,0 +1,1707 @@
+
+ANDROID_WEAR
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.whatsapp"
+    backendDocid: "com.whatsapp"
+    docType: 1
+    backendId: 3
+    title: "WhatsApp Messenger"
+    creator: "WhatsApp Inc."
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.ggpht.com/aZrXAunkovhf0630Ykz1A7h2rzFX_dErd6fRiB7fNKU_DkNtetTquEra1bjc3sR2kLs"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 452017
+        installationSize: 31651620
+        numDownloads: "1,000,000,000+"
+        packageName: "com.whatsapp"
+        uploadDate: "Sep 25, 2017"
+        file {
+          fileType: 0
+          versionCode: 452017
+          size: 31651620
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.38630008698
+      ratingsCount: 59535717
+      oneStarRatings: 3814628
+      twoStarRatings: 1598912
+      threeStarRatings: 3798077
+      fourStarRatings: 8885688
+      fiveStarRatings: 41438412
+      commentCount: 14609872
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.whatsapp"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.whatsapp"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=ANDROID_WEAR&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-1547699330"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               ANDROID_WEAR0                  ###################
+ART_AND_DESIGN
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "uk.photoscar.toon.editor"
+    backendDocid: "uk.photoscar.toon.editor"
+    docType: 1
+    backendId: 3
+    title: "Cartoon Photo Effect"
+    creator: "Lab.studio2017"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/3yupkWUGxV-v6oaU3fLjpQrVeUrl63_v4Tj24qw3HRTsU83KPLThwMmo9wxuF8vtrCI"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/ozGL3CvbdnjQon5AFUnfLXIj5Ou-gZvTJWRmqHFmnpCd2btxrCY3YaNgK7nIM2xDyO8"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 34
+        installationSize: 5647368
+        numDownloads: "500,000+"
+        packageName: "uk.photoscar.toon.editor"
+        uploadDate: "Jul 7, 2017"
+        file {
+          fileType: 0
+          versionCode: 34
+          size: 5647368
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.49134206772
+      ratingsCount: 18942
+      oneStarRatings: 5206
+      twoStarRatings: 890
+      threeStarRatings: 1779
+      fourStarRatings: 1525
+      fiveStarRatings: 9542
+      commentCount: 6914
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=uk.photoscar.toon.editor"
+    shareUrl: "https://play.google.com/store/apps/details?id=uk.photoscar.toon.editor"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=ART_AND_DESIGN&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-171606707"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               ART_AND_DESIGN0                  ###################
+AUTO_AND_VEHICLES
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "de.mobile.android.app"
+    backendDocid: "de.mobile.android.app"
+    docType: 1
+    backendId: 3
+    title: "mobile.de \342\200\223 vehicle market"
+    creator: "mobile.de GmbH"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh5.ggpht.com/9sZ_fgXUFX1zzS-KBGecXE8LY2vI_M_sGVZlmcf1W27i5UezpDOJZ7fbiDmunLsjNeo"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/aSOA3aVs70jhwVC8kc0jKKtS3lm19k79NDOuC_APFJ_or1NTJzyKgWVY42mzL56Ye6U"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 576
+        installationSize: 10972516
+        numDownloads: "10,000,000+"
+        packageName: "de.mobile.android.app"
+        uploadDate: "Oct 2, 2017"
+        file {
+          fileType: 0
+          versionCode: 576
+          size: 10972516
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.31358957291
+      ratingsCount: 60222
+      oneStarRatings: 4124
+      twoStarRatings: 1994
+      threeStarRatings: 4031
+      fourStarRatings: 10797
+      fiveStarRatings: 39276
+      commentCount: 9356
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=de.mobile.android.app"
+    shareUrl: "https://play.google.com/store/apps/details?id=de.mobile.android.app"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=AUTO_AND_VEHICLES&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "550451586"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               AUTO_AND_VEHICLES0                  ###################
+BEAUTY
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=BEAUTY&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               BEAUTY0                  ###################
+BOOKS_AND_REFERENCE
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.audible.application"
+    backendDocid: "com.audible.application"
+    docType: 1
+    backendId: 3
+    title: "Audiobooks from Audible"
+    creator: "Audible, Inc"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.googleusercontent.com/7uRfJe2KkpKxZuMvY4OjhIq-TJrMeHgWYQt0H7LHZl4WNDAYjI6FFrLSsLhj2g8cqKr5"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/d9ceu5R5pV-tEoQOy2UgYocGvhAZck2cdh8e9f6qRS7z95K1jg1ylIeGr-MIbUm-Hecu"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=xd1S3_8eD8c"
+    }
+    image {
+      imageType: 13
+      imageUrl: "https://i.ytimg.com/vi/xd1S3_8eD8c/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 25333
+        installationSize: 39069393
+        numDownloads: "50,000,000+"
+        packageName: "com.audible.application"
+        uploadDate: "Sep 7, 2017"
+        file {
+          fileType: 0
+          versionCode: 25333
+          size: 39069393
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.45325708389
+      ratingsCount: 452893
+      oneStarRatings: 25849
+      twoStarRatings: 10229
+      threeStarRatings: 20795
+      fourStarRatings: 71943
+      fiveStarRatings: 324077
+      commentCount: 112483
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.audible.application"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.audible.application"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=BOOKS_AND_REFERENCE&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "1419403414"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               BOOKS_AND_REFERENCE0                  ###################
+BUSINESS
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.indeed.android.jobsearch"
+    backendDocid: "com.indeed.android.jobsearch"
+    docType: 1
+    backendId: 3
+    title: "Indeed Job Search"
+    creator: "Indeed Jobs"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/jj2z8DZ-Z5rV-Y4IY0ZklkuPjCchjeeisflFD0dU_zlJNpbUJkDTQpAMlc5rwutKFSU"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/0UTghlryhbFPXmJQYdSRy27Hq67lvLSShlrea8TeNnx4tscLGsMTxI7uZIRSZ6sGdLWx"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 84
+        installationSize: 3511703
+        numDownloads: "50,000,000+"
+        packageName: "com.indeed.android.jobsearch"
+        uploadDate: "Sep 26, 2017"
+        file {
+          fileType: 0
+          versionCode: 84
+          size: 3511703
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.21660518646
+      ratingsCount: 556617
+      oneStarRatings: 33900
+      twoStarRatings: 21950
+      threeStarRatings: 56331
+      fourStarRatings: 121939
+      fiveStarRatings: 322497
+      commentCount: 123435
+    }
+    annotations {
+      badgeForDoc {
+        title: "Editors\' Choice"
+        image {
+          imageType: 5
+          Dimension {
+            width: 14
+            height: 14
+          }
+          imageUrl: "https://lh3.googleusercontent.com/WEQzS2b6XKgMpNEinDcLxVLgeG14OIhuIDeq81MDAz-5Rcpd2ClfB9reWP56fWKfUHScCtwr2L4BZ31z6_A"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 6
+          Dimension {
+            width: 24
+            height: 24
+          }
+          imageUrl: "https://lh3.googleusercontent.com/2RVYfvNtygyNIBk2wc738qDUt9O3DCUw51_gXtBQiLOK2IYV2XRZEUy_C1_44hGMYrpkJ14SgufYUT4N"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 7
+          Dimension {
+            width: 28
+            height: 33
+          }
+          imageUrl: "https://lh3.googleusercontent.com/2RVYfvNtygyNIBk2wc738qDUt9O3DCUw51_gXtBQiLOK2IYV2XRZEUy_C1_44hGMYrpkJ14SgufYUT4N"
+          supportsFifeUrlOptions: true
+        }
+        browseUrl: "apps/topic?doc=id-3-51-editors_choice"
+      }
+    }
+    detailsUrl: "details?doc=com.indeed.android.jobsearch"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=BUSINESS&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-1725432663"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               BUSINESS0                  ###################
+COMICS
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "de.scheisstool.roehrichsoundboardwerner"
+    backendDocid: "de.scheisstool.roehrichsoundboardwerner"
+    docType: 1
+    backendId: 3
+    title: "R\303\266hrich Werner Soundboard"
+    creator: "BananaDevelopments"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/pfMCwsz8vJrFy6HedW4YIQQ1b6BHlY4VGzrbV6-4IaCxBQt8l1M7HquDMh85u-R_Sy9k"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/Tqj1L0lj6_PQGdGTheVJEjdLLhKvacLwPhjnDzNJ8y2qyny9NlbQI6GsP3zWlSILL0w"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 8
+        installationSize: 33195934
+        numDownloads: "500,000+"
+        packageName: "de.scheisstool.roehrichsoundboardwerner"
+        uploadDate: "Feb 27, 2017"
+        file {
+          fileType: 0
+          versionCode: 8
+          size: 33195934
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.68643140793
+      ratingsCount: 1872
+      oneStarRatings: 54
+      twoStarRatings: 22
+      threeStarRatings: 58
+      fourStarRatings: 189
+      fiveStarRatings: 1549
+      commentCount: 844
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=de.scheisstool.roehrichsoundboardwerner"
+    shareUrl: "https://play.google.com/store/apps/details?id=de.scheisstool.roehrichsoundboardwerner"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=COMICS&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-1221401968"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               COMICS0                  ###################
+COMMUNICATION
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.whatsapp"
+    backendDocid: "com.whatsapp"
+    docType: 1
+    backendId: 3
+    title: "WhatsApp Messenger"
+    creator: "WhatsApp Inc."
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.ggpht.com/aZrXAunkovhf0630Ykz1A7h2rzFX_dErd6fRiB7fNKU_DkNtetTquEra1bjc3sR2kLs"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 452017
+        installationSize: 31651620
+        numDownloads: "1,000,000,000+"
+        packageName: "com.whatsapp"
+        uploadDate: "Sep 25, 2017"
+        file {
+          fileType: 0
+          versionCode: 452017
+          size: 31651620
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.38630008698
+      ratingsCount: 59535717
+      oneStarRatings: 3814628
+      twoStarRatings: 1598912
+      threeStarRatings: 3798077
+      fourStarRatings: 8885688
+      fiveStarRatings: 41438412
+      commentCount: 14609872
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.whatsapp"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.whatsapp"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=COMMUNICATION&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-1547699330"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               COMMUNICATION0                  ###################
+DATING
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=DATING&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               DATING0                  ###################
+EDUCATION
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.duolingo"
+    backendDocid: "com.duolingo"
+    docType: 1
+    backendId: 3
+    title: "Duolingo: Learn Languages Free"
+    creator: "Duolingo"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh5.ggpht.com/F5Wp1A1WgAnK5sQE95iYJV7t6Hhty4e_T1wv1LG39krjbZI8m_mAmgJhk5eg2cnZcoU"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 3
+      imageUrl: "https://www.youtube.com/watch?v=SUz6oBiRlxk&"
+    }
+    image {
+      imageType: 13
+      imageUrl: "https://i.ytimg.com/vi/SUz6oBiRlxk/hqdefault.jpg"
+    }
+    details {
+      appDetails {
+        versionCode: 492
+        installationSize: 13196545
+        numDownloads: "100,000,000+"
+        packageName: "com.duolingo"
+        uploadDate: "Sep 27, 2017"
+        file {
+          fileType: 0
+          versionCode: 492
+          size: 13196545
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.70608568192
+      ratingsCount: 5121871
+      oneStarRatings: 65906
+      twoStarRatings: 39589
+      threeStarRatings: 135495
+      fourStarRatings: 852010
+      fiveStarRatings: 4028871
+      commentCount: 1836962
+    }
+    annotations {
+      badgeForDoc {
+        title: "Editors\' Choice"
+        image {
+          imageType: 5
+          Dimension {
+            width: 14
+            height: 14
+          }
+          imageUrl: "https://lh3.googleusercontent.com/WEQzS2b6XKgMpNEinDcLxVLgeG14OIhuIDeq81MDAz-5Rcpd2ClfB9reWP56fWKfUHScCtwr2L4BZ31z6_A"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 6
+          Dimension {
+            width: 24
+            height: 24
+          }
+          imageUrl: "https://lh3.googleusercontent.com/2RVYfvNtygyNIBk2wc738qDUt9O3DCUw51_gXtBQiLOK2IYV2XRZEUy_C1_44hGMYrpkJ14SgufYUT4N"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 7
+          Dimension {
+            width: 28
+            height: 33
+          }
+          imageUrl: "https://lh3.googleusercontent.com/2RVYfvNtygyNIBk2wc738qDUt9O3DCUw51_gXtBQiLOK2IYV2XRZEUy_C1_44hGMYrpkJ14SgufYUT4N"
+          supportsFifeUrlOptions: true
+        }
+        browseUrl: "apps/topic?doc=id-3-51-editors_choice"
+      }
+    }
+    detailsUrl: "details?doc=com.duolingo"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.duolingo"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=EDUCATION&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-1255577113"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               EDUCATION0                  ###################
+ENTERTAINMENT
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=ENTERTAINMENT&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               ENTERTAINMENT0                  ###################
+EVENTS
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "as.clashsecrets"
+    backendDocid: "as.clashsecrets"
+    docType: 1
+    backendId: 3
+    title: "cheats for clash of clans"
+    creator: "BEST STUDIO"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/q6G5hhb0oxGOfIUn8sqjiVZzqiH0-VM01yTDZqz_0XMlRvFlXc2poPqRt-gSQIo9NQ"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/S5iz7D8QUxCx74WrUtoG2NXMWhkhieNEMRUQRl1lDL9Ut2IpGy3t8fEfY4jpEi3_LAE"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 6
+        installationSize: 2605671
+        numDownloads: "500,000+"
+        packageName: "as.clashsecrets"
+        uploadDate: "Apr 29, 2017"
+        file {
+          fileType: 0
+          versionCode: 6
+          size: 2605671
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.39330744743
+      ratingsCount: 6186
+      oneStarRatings: 2186
+      twoStarRatings: 154
+      threeStarRatings: 253
+      fourStarRatings: 227
+      fiveStarRatings: 3366
+      commentCount: 2555
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=as.clashsecrets"
+    shareUrl: "https://play.google.com/store/apps/details?id=as.clashsecrets"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=EVENTS&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-67577327"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               EVENTS0                  ###################
+FINANCE
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=FINANCE&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               FINANCE0                  ###################
+FOOD_AND_DRINK
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=FOOD_AND_DRINK&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               FOOD_AND_DRINK0                  ###################
+HEALTH_AND_FITNESS
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "loseweight.weightloss.workout.fitness"
+    backendDocid: "loseweight.weightloss.workout.fitness"
+    docType: 1
+    backendId: 3
+    title: "Lose Weight in 30 Days"
+    creator: "Simple Design Ltd."
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/r7qy_rLV5prtV8l7Etrkgc9OpGFri_jH2vuvhS5uAkUIKwSWajp58WhdpHgbnUXYrQ"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/B6MimVAP6qMyyyFnZF0KOgyGdGVkHDIQSa_zE8Vtoy5ccxO6B6PNZnYUILBH4zJ8rQ"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 7
+        installationSize: 9535216
+        numDownloads: "1,000,000+"
+        packageName: "loseweight.weightloss.workout.fitness"
+        uploadDate: "Sep 1, 2017"
+        file {
+          fileType: 0
+          versionCode: 7
+          size: 9535216
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.64492940903
+      ratingsCount: 19889
+      oneStarRatings: 749
+      twoStarRatings: 221
+      threeStarRatings: 888
+      fourStarRatings: 1627
+      fiveStarRatings: 16404
+      commentCount: 8004
+    }
+    annotations {
+      badgeForDoc {
+        title: "Editors\' Choice"
+        image {
+          imageType: 5
+          Dimension {
+            width: 14
+            height: 14
+          }
+          imageUrl: "https://lh3.googleusercontent.com/WEQzS2b6XKgMpNEinDcLxVLgeG14OIhuIDeq81MDAz-5Rcpd2ClfB9reWP56fWKfUHScCtwr2L4BZ31z6_A"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 6
+          Dimension {
+            width: 24
+            height: 24
+          }
+          imageUrl: "https://lh3.googleusercontent.com/2RVYfvNtygyNIBk2wc738qDUt9O3DCUw51_gXtBQiLOK2IYV2XRZEUy_C1_44hGMYrpkJ14SgufYUT4N"
+          supportsFifeUrlOptions: true
+        }
+        image {
+          imageType: 7
+          Dimension {
+            width: 28
+            height: 33
+          }
+          imageUrl: "https://lh3.googleusercontent.com/2RVYfvNtygyNIBk2wc738qDUt9O3DCUw51_gXtBQiLOK2IYV2XRZEUy_C1_44hGMYrpkJ14SgufYUT4N"
+          supportsFifeUrlOptions: true
+        }
+        browseUrl: "apps/topic?doc=id-3-51-editors_choice"
+      }
+    }
+    detailsUrl: "details?doc=loseweight.weightloss.workout.fitness"
+    shareUrl: "https://play.google.com/store/apps/details?id=loseweight.weightloss.workout.fitness"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=HEALTH_AND_FITNESS&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-736786908"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               HEALTH_AND_FITNESS0                  ###################
+HOUSE_AND_HOME
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=HOUSE_AND_HOME&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               HOUSE_AND_HOME0                  ###################
+LIBRARIES_AND_DEMO
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.akdso.pzrakh.dko"
+    backendDocid: "com.akdso.pzrakh.dko"
+    docType: 1
+    backendId: 3
+    title: "Aptoiiiide Apto     ide"
+    creator: "James Cor"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/WnLU0DBFM6pByjVckHt2DsP6PKyxxngjyejqDwlbvUgcC7e18Kkf3zXLs6LEObIiO1kc"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/zkIAfNkdXPmCP75JLmlkZYoN5-Jzfqin27Vr5Qft8RqaN57aNJRLqc65CBJ8i1EaaPI"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 3
+        installationSize: 3705233
+        numDownloads: "100,000+"
+        packageName: "com.akdso.pzrakh.dko"
+        uploadDate: "Sep 20, 2017"
+        file {
+          fileType: 0
+          versionCode: 3
+          size: 3705233
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 3.8837583065
+      ratingsCount: 14272
+      oneStarRatings: 2352
+      twoStarRatings: 564
+      threeStarRatings: 1732
+      fourStarRatings: 1367
+      fiveStarRatings: 8257
+      commentCount: 6290
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.akdso.pzrakh.dko"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.akdso.pzrakh.dko"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=LIBRARIES_AND_DEMO&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "22595636"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               LIBRARIES_AND_DEMO0                  ###################
+LIFESTYLE
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=LIFESTYLE&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               LIFESTYLE0                  ###################
+MAPS_AND_NAVIGATION
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=MAPS_AND_NAVIGATION&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               MAPS_AND_NAVIGATION0                  ###################
+MEDICAL
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=MEDICAL&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               MEDICAL0                  ###################
+MUSIC_AND_AUDIO
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.spotify.music"
+    backendDocid: "com.spotify.music"
+    docType: 1
+    backendId: 3
+    title: "Spotify Music"
+    creator: "Spotify Ltd."
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.googleusercontent.com/1VhhAvQ5WfkGE_dckZ5X7dXvtu96TkjV3zMnc9xur_GQmqOkNMokPtiB35dHmSNx7w"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 1572873
+        installationSize: 13897065
+        numDownloads: "100,000,000+"
+        packageName: "com.spotify.music"
+        uploadDate: "Sep 5, 2014"
+        file {
+          fileType: 0
+          versionCode: 1572873
+          size: 13897065
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.54957580566
+      ratingsCount: 9546178
+      oneStarRatings: 378600
+      twoStarRatings: 168660
+      threeStarRatings: 430689
+      fourStarRatings: 1418073
+      fiveStarRatings: 7150156
+      commentCount: 2694931
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.spotify.music"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.spotify.music"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=MUSIC_AND_AUDIO&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "613209187"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               MUSIC_AND_AUDIO0                  ###################
+NEWS_AND_MAGAZINES
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=NEWS_AND_MAGAZINES&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               NEWS_AND_MAGAZINES0                  ###################
+PARENTING
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=PARENTING&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               PARENTING0                  ###################
+PERSONALIZATION
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=PERSONALIZATION&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               PERSONALIZATION0                  ###################
+PHOTOGRAPHY
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.steam.photoeditor"
+    backendDocid: "com.steam.photoeditor"
+    docType: 1
+    backendId: 3
+    title: "S Photo Editor - Collage Maker , Photo Collage"
+    creator: "GOMO S Team"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/ZSxEdf1-sxs0x0gDJ27SW9agHCuk_huklGKNh36vG1NqpFmXXHmZrF9zRJ207xVizA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/Rfrl8Wdi65E1nqcDR7s7qb5G4IzIVWw67e2VFylhoYp8iMRGOW4RZxIvtinQjAVTknUF"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 43
+        installationSize: 28238216
+        numDownloads: "100,000,000+"
+        packageName: "com.steam.photoeditor"
+        uploadDate: "Sep 28, 2017"
+        file {
+          fileType: 0
+          versionCode: 43
+          size: 28238216
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.36442995071
+      ratingsCount: 715819
+      oneStarRatings: 38486
+      twoStarRatings: 13464
+      threeStarRatings: 67428
+      fourStarRatings: 125761
+      fiveStarRatings: 470680
+      commentCount: 204105
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.steam.photoeditor"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.steam.photoeditor"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=PHOTOGRAPHY&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-62609549"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               PHOTOGRAPHY0                  ###################
+PRODUCTIVITY
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=PRODUCTIVITY&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               PRODUCTIVITY0                  ###################
+SHOPPING
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=SHOPPING&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               SHOPPING0                  ###################
+SOCIAL
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=SOCIAL&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               SOCIAL0                  ###################
+SPORTS
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "de.dfbmedien.FussballDE"
+    backendDocid: "de.dfbmedien.FussballDE"
+    docType: 1
+    backendId: 3
+    title: "FUSSBALL.DE"
+    creator: "DFB-Medien GmbH & Co. KG"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      imageUrl: "https://lh3.googleusercontent.com/kPgGyAIagALBs7vL-mI8QLufmhAzoPkdvGFdv_OcO_MuhLqmKckffzsfFO0ubS8yorA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      imageUrl: "https://lh3.googleusercontent.com/dGyk2OMJIVwOchIgA3Z65PPvg9zcEhiDh-3HLhvXbGvOPPp9SE-u8y20ya0uxZRQzOc"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 33
+        installationSize: 12937814
+        numDownloads: "1,000,000+"
+        packageName: "de.dfbmedien.FussballDE"
+        uploadDate: "Oct 4, 2017"
+        file {
+          fileType: 0
+          versionCode: 33
+          size: 12937814
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.21017456055
+      ratingsCount: 18713
+      oneStarRatings: 1737
+      twoStarRatings: 678
+      threeStarRatings: 1175
+      fourStarRatings: 3448
+      fiveStarRatings: 11675
+      commentCount: 3674
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=de.dfbmedien.FussballDE"
+    shareUrl: "https://play.google.com/store/apps/details?id=de.dfbmedien.FussballDE"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=SPORTS&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "-437135421"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               SPORTS0                  ###################
+TOOLS
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  child {
+    docid: "com.google.android.apps.translate"
+    backendDocid: "com.google.android.apps.translate"
+    docType: 1
+    backendId: 3
+    title: "Google Translate"
+    creator: "Google LLC"
+    offer {
+      micros: 0
+      currencyCode: "USD"
+      formattedAmount: "Free"
+      checkoutFlowRequired: false
+      offerType: 1
+    }
+    availability {
+      restriction: 1
+      availableIfOwned: true
+    }
+    image {
+      imageType: 4
+      Dimension {
+        width: 512
+        height: 512
+      }
+      imageUrl: "https://lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA"
+      supportsFifeUrlOptions: true
+    }
+    image {
+      imageType: 2
+      Dimension {
+        width: 1024
+        height: 500
+      }
+      imageUrl: "https://lh3.googleusercontent.com/e4Sfy0cOmqpike76V6N6n-tDVbtbmt6MxbnbkKBZ_7hPHZRfsCeZhMBZK8eFDoDa1Vf-"
+      supportsFifeUrlOptions: true
+    }
+    details {
+      appDetails {
+        versionCode: 31001661
+        installationSize: 18081055
+        numDownloads: "500,000,000+"
+        packageName: "com.google.android.apps.translate"
+        uploadDate: "Feb 11, 2015"
+        file {
+          fileType: 0
+          versionCode: 31001661
+          size: 18081055
+        }
+      }
+    }
+    aggregateRating {
+      type: 2
+      starRating: 4.39442920685
+      ratingsCount: 5233687
+      oneStarRatings: 265484
+      twoStarRatings: 162405
+      threeStarRatings: 379684
+      fourStarRatings: 860850
+      fiveStarRatings: 3565264
+      commentCount: 1027483
+    }
+    annotations {
+    }
+    detailsUrl: "details?doc=com.google.android.apps.translate"
+    shareUrl: "https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+    detailsReusable: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=TOOLS&n=1&o=1&ctntkn=CAE%3D"
+    analyticsCookie: "1062746616"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               TOOLS0                  ###################
+TRAVEL_AND_LOCAL
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=TRAVEL_AND_LOCAL&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               TRAVEL_AND_LOCAL0                  ###################
+WEATHER
+doc {
+  docid: "apps_topselling_free"
+  backendDocid: "topselling_free"
+  docType: 7
+  backendId: 3
+  title: "Top Apps"
+  availability {
+    availableIfOwned: true
+  }
+  containerMetadata {
+    nextPageUrl: "list?c=3&ctr=apps_topselling_free&cat=WEATHER&n=1&o=0&ctntkn=CAE%3D"
+    analyticsCookie: "1"
+    ordered: true
+  }
+  annotations {
+  }
+  detailsReusable: true
+}
+###################               WEATHER0                  ###################
