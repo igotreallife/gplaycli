@@ -6,7 +6,6 @@ Run those scripts in the following Order:
  - csv_decoder
  - counter
  - change
- - convert
 
 The only file really required is the csv file with data, the others however
 should be generated automatically.
