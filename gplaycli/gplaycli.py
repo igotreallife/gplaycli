@@ -512,7 +512,7 @@ class GPlaycli(object):
         for apk in lst:
             apk = apk.strip('\'')
             stringToWrite = str(self.playstore_api.details(apk))
-            print stringToWrite
+            #print stringToWrite
             details.write(str(apk))
             details.write("\n" + stringToWrite)
 
